@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Nitin Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, 😄 I'm Nitin Singh </h2>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200"'>
 
@@ -22,9 +22,8 @@ I am a full stack developer 👨🏻‍💻 . I'm a creative problem solving ent
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **.Net,Expressjs**
-- Making for **Relational Database Management Systems**
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, Angular**
+- Backend development using **.Net,Expressjs, Python**
 - Robust full-stack system design implementation
 - Desktop application development using **Electron**
 - Mobile application development using **Ionic**
