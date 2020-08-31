@@ -33,8 +33,8 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Nitin Singh Blog](https://nitinksingh.com)
 - 🎯 Portfolio site: [Portfolio](https://nitinksingh.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Nitin Kumar Singh](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
+- 🔔 Subscribe:- [Nitin Kumar Singh](https://www.youtube.com/channel/4554)
 - ⚡ Fun fact: Internet users blink less than usual. -->
-
-![Nitin Singh's github stats](https://github-readme-stats.vercel.app/api?username=nitin27may&hide=["issues"]&show_icons=true)
+<!-- 
+![Nitin Singh's github stats](https://github-readme-stats.vercel.app/api?username=nitin27may&hide=["issues"]&show_icons=true) -->
 
