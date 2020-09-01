@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, 😄 I'm Nitin Singh </h2>
+<h2> Hi, 😄  </h2>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200"'>
 
