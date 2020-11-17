@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h2> Hi, 😄  </h2>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200"'>
-
-[![Twitter Badge](https://img.shields.io/badge/-@nitin27may-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nitin27may)](https://twitter.com/nitin27may) [![Linkedin Badge](https://img.shields.io/badge/-nitin27may-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin27may/)](https://www.linkedin.com/in/nitin27may/)
+<!--
+[![Twitter Badge](https://img.shields.io/badge/-@nitin27may-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nitin27may)](https://twitter.com/nitin27may) [![Linkedin Badge](https://img.shields.io/badge/-nitin27may-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin27may/)](https://www.linkedin.com/in/nitin27may/)-->
 
 I am a full stack developer 👨🏻‍💻 . I'm a creative problem solving enthusiast. Currenty I am working on applications which are using **.Net Core, expressjs, MongoDb, SQL Server, Docker and Azure**.
 
