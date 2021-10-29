@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-@nitin27may-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nitin27may)](https://twitter.com/nitin27may) 
 
-I am a full stack developer 👨🏻‍💻 . I'm a creative problem solving enthusiast. Currenty I am working on applications which are using **.Net Core, expressjs, MongoDb, SQL Server, Docker and Azure**.
+I am a full stack developer 👨🏻‍💻 . I'm a creative problem solving enthusiast. Currenty I am working on applications which are using **.Net Core, Angular, expressjs, MongoDb, SQL Server, Docker and Azure**.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, Angular**
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, Angular, ASP.NET (Razor, Blazor)**
 - Backend development using **.Net,Expressjs, Python**
 - Robust full-stack system design implementation
 - Desktop application development using **Electron**
