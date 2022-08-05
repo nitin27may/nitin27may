@@ -29,6 +29,7 @@ Talk to me about
 - Mobile application development using **Ionic**
 - Creating scalable cloud architecture using **Azure**
 - Solving Data structure and algorithm questions in **.Net**
+- Containerize application using **Docker**
 <!-- ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Nitin Singh Blog](https://nitinksingh.com)
