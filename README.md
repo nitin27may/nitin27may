@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, 😄  </h2>
+<h2> Hi, I am Nitin Singh 👋  </h2>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@nitin27may-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nitin27may)](https://twitter.com/nitin27may) 
 
-I am a full stack developer 👨🏻‍💻 . I'm a creative problem solving enthusiast. Currenty I am working on applications which are using **.Net Core, Angular, expressjs, MongoDb, SQL Server, Docker and Azure**.
+
+I’m a software engineer specialized in building Web Applications. For the frontend, I love building Web Applications using Angular and for the backend, I work with ASP.NET Core WebAPIs and expressjs. I'm a creative problem solving enthusiast. Currenty I am working on applications which are using **.Net Core, Angular, expressjs, MongoDb, SQL Server, Docker and Azure**.
 
 ## ⚡ Technologies
 Talk to me about
