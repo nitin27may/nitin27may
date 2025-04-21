@@ -1,53 +1,49 @@
-<!--
-**nitin27may/nitin27may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nitin Singh | Full Stack Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2> Hi, I am Nitin Singh 👋  </h2>
+<div align="center">
+  
+[![Twitter Badge](https://img.shields.io/badge/-@nitin27may-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nitin27may)](https://twitter.com/nitin27may)
+[![Blog](https://img.shields.io/badge/Blog-nitinksingh.com-blue)](https://nitinksingh.com)
+![Profile Views](https://komarev.com/ghpvc/?username=nitin27may)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/nitin27may)
+</div>
 
 <img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='200'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@nitin27may-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nitin27may)](https://twitter.com/nitin27may) 
-![](https://komarev.com/ghpvc/?username=nitin27may)
+## About Me
 
-Hello! I'm Nitin Singh, a passionate software engineer with a knack for building robust and scalable web applications. I specialize in full-stack development, leveraging modern frameworks and technologies to create seamless user experiences and efficient backend systems.
+With 15+ years of experience, I architect and deliver enterprise-grade solutions using modern tech stacks. I specialize in developing scalable microservices with a proven track record of successful remote project delivery. I combine deep technical expertise with business acumen to transform complex requirements into production-ready applications.
 
+## Core Expertise
 
-**Frontend Expertise**: I love crafting interactive and dynamic web applications using Angular. My projects emphasize intuitive design and optimal performance, ensuring a great user experience.
+- **Cloud Architecture**: Designing and implementing scalable solutions with Microsoft Azure cloud services
+- **Backend Development**: Building robust microservices with .NET Core, Express.js, and NestJS
+- **Frontend Development**: Creating responsive, user-friendly interfaces with Angular
+- **DevOps & CI/CD**: Implementing automated pipelines using Azure DevOps, GitHub Actions, and GitLab
+- **Containerization**: Docker, Kubernetes (AKS) implementation and optimization
 
-**Backend Proficiency**: I have extensive experience with ASP.NET Core Web APIs and Express.js, enabling me to build powerful and scalable server-side applications.
+## Technical Stack
 
-**Azure Cloud Solutions**: I am proficient across the Azure ecosystem, including Azure AI (Azure AI Document Intelligence, Azure Open AI, Azure AI Search), Kubernetes, Azure DevOps, and GitHub Actions. My hands-on experience allows me to develop and integrate cloud-native applications seamlessly.
+### Languages & Frameworks
+- **Frontend**: Angular, React, TypeScript, JavaScript, HTML5, CSS3
+- **Backend**: C#, .NET Core, Express.js, NestJS, Python
+- **Database**: Microsoft SQL Server, PostgreSQL, MongoDB, Azure Cosmos DB
 
-**Current Focus**: Currently, I am focused on developing cloud-native applications that leverage .NET Core, Angular, Express.js, MongoDB, SQL Server, Docker, and various Azure technologies. These applications are built using microservices architecture and follow the 12-factor app methodology.
+### Cloud & DevOps
+- **Microsoft Azure**: App Service, Functions, Logic Apps, Service Bus, Blob Storage, SQL Database, Key Vault
+- **AI**: Document Intelligence, Open AI, AI Search, RAG
+- **DevOps**: Azure DevOps, GitHub Actions, Docker, Kubernetes, GitLab Pipeline
 
-## ⚡ Technologies
-**Talk to me about**
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, Angular, ASP.NET (Razor, Blazor)**
-- Backend development using **.Net,Expressjs, Python**
-- Robust full-stack system design implementation
-- Desktop application development using **Electron**
-- Mobile application development using **Ionic**
-- Creating scalable cloud architecture using **Azure**
-- Solving Data structure and algorithm questions in **.Net**
-- Containerize application using **Docker**
-  
-📫 Read my blogs: [Nitin Singh Blog](https://nitinksingh.com)
-<!-- ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Nitin Singh Blog](https://nitinksingh.com)
-- 🎯 Portfolio site: [Portfolio](https://nitinksingh.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Nitin Kumar Singh](https://www.youtube.com/channel/4554)
-- ⚡ Fun fact: Internet users blink less than usual. -->
-<!-- 
-![Nitin Singh's github stats](https://github-readme-stats.vercel.app/api?username=nitin27may&hide=["issues"]&show_icons=true) -->
+## Current Focus
 
+I'm currently focused on developing cloud-native applications that leverage .NET Core, Angular, Docker, and various Azure technologies following microservices architecture and the 12-factor app methodology. I'm particularly interested in:
+
+- **AI Integration**: Building systems that leverage Azure AI services
+- **Process Automation**: Creating solutions that reduce operational costs and increase efficiency
+- **SaaS Platforms**: Developing scalable, multi-tenant applications
+
+## Connect With Me
+
+📫 [Blog](https://nitinksingh.com)  
+🐦 [Twitter](https://twitter.com/nitin27may)  
+📧 Email: nitin.singh21@hotmail.com
