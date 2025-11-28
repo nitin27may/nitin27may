@@ -31,15 +31,18 @@ With 15+ years of experience, I architect and deliver enterprise-grade solutions
 
 ### Cloud & DevOps
 - **Microsoft Azure**: App Service, Functions, Logic Apps, Service Bus, Blob Storage, SQL Database, Key Vault
-- **AI**: Document Intelligence, Open AI, AI Search, RAG
+- **AI & Agents**: Microsoft Foundry, Document Intelligence, Open AI, AI Search, RAG
+- **Agentic Frameworks**: Microsoft Agent Framework, LangGraph
 - **DevOps**: Azure DevOps, GitHub Actions, Docker, Kubernetes, GitLab Pipeline
 
 ## Current Focus
 
 I'm currently focused on developing cloud-native applications that leverage .NET Core, Angular, Docker, and various Azure technologies following microservices architecture and the 12-factor app methodology. I'm particularly interested in:
 
-- **AI Integration**: Building systems that leverage Azure AI services
-- **Process Automation**: Creating solutions that reduce operational costs and increase efficiency
+- **AI & Agentic Systems**: Exploring Microsoft Micosoft Foundry (formerly Azure AI Studio, AI Foundry) and building intelligent agent-based applications using frameworks like  Agent Framework, LangGraph, and other agentic architectures
+- **Agent UI Development**: Creating conversational interfaces with AG UI and Chatkit for seamless human-agent interactions
+- **AI Integration**: Building systems that leverage Azure AI services including RAG, AI Search, and OpenAI, Anthropic
+- **Process Automation**: Creating solutions that reduce operational costs and increase efficiency through intelligent automation
 - **SaaS Platforms**: Developing scalable, multi-tenant applications
 
 ## Connect With Me
