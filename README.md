@@ -1,17 +1,17 @@
-# Nitin Singh — Solutions Architect | Enterprise AI & Agentic Systems
+# Nitin Singh — Solutions Architect & Engineer | Enterprise AI & Agentic Systems
 
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-nitinksingh.com-0A66C2?style=flat-square)](https://nitinksingh.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@nitin27may-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nitin27may)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitin27may-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nitin27may) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitin27may-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nitin27may)
 ![Profile Views](https://komarev.com/ghpvc/?username=nitin27may&style=flat-square)
 
 </div>
 
 ---
 
-Solutions Architect with 15+ years delivering enterprise systems across insurance, fintech, and SaaS platforms. Currently focused on production AI/agentic architectures — multi-agent orchestration, RAG pipelines, and human-in-the-loop systems on Azure. I design for observability, security, and governance from day one, with a strong preference for keyless, credential-free architectures that eliminate secret sprawl at the infrastructure level.
+Solutions Architect and individual contributor with 15+ years delivering enterprise systems across insurance, fintech, and SaaS platforms. I architect and build — from system design and API contracts through to deployment on AKS. Currently focused on AI/agentic systems: multi-agent orchestration, RAG pipelines, and human-in-the-loop workflows on Azure. I build for observability, security, and governance from day one, with a strong preference for keyless, credential-free architectures that eliminate secret sprawl at the infrastructure level.
 
 ---
 
