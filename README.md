@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-nitinksingh.com-0A66C2?style=flat-square)](https://nitinksingh.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@nitin27may-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nitin27may)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitin27may-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nitin27may) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitin27may-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nitin27may)
 ![Profile Views](https://komarev.com/ghpvc/?username=nitin27may&style=flat-square)
 
 </div>
