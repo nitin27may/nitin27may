@@ -56,7 +56,7 @@ Zero Trust · keyless service-to-service auth · Entra ID · OWASP · multi-tena
 
 I use **Claude Code** for agentic development — scaffolding, refactoring, architecture exploration — and **GitHub Copilot** for in-editor completion. Every architectural decision and every line of production code goes through human review. The tools accelerate iteration; the judgment still comes from experience.
 
-Most of what's here started as a problem I hit on a real project and then rebuilt in the open. If you're working on something similar — agent orchestration, keyless Azure, or an architecture you want a second set of eyes on — [here's how I work with teams](https://nitinksingh.com/work/).
+Most of what's here started as a problem I hit on a real project and then rebuilt in the open. If you're working on something similar — agent orchestration, keyless Azure, or an architecture worth thinking through — [I'm glad to talk](https://nitinksingh.com/work/).
 
 ## Elsewhere
 
