@@ -1,11 +1,20 @@
-<img src="assets/banner.svg" width="100%" alt="Nitin Singh, Solutions Architect. Enterprise AI agents on Azure, designed and shipped. Keyless, zero trust, observable from the first commit.">
+<img src="assets/banner.svg" width="100%" alt="Nitin Singh, Solutions Architect. Enterprise AI agent systems, designed and shipped. Keyless, zero trust, observable from the first commit.">
 
-Solutions Architect with 15+ years delivering enterprise systems across insurance, fintech, and SaaS. I design the system and write the code, from API contracts through to deployment on AKS. Current focus: multi-agent and RAG systems on Azure, built keyless and zero trust from the first commit.
+Solutions Architect with 15+ years delivering enterprise systems across insurance, fintech, and SaaS. I design the system and write the code, from API contracts through to deployment on AKS. Current focus: multi-agent and RAG systems, built keyless and zero trust from the first commit. Most of my production work is on Azure, and I am open to work on any cloud and any AI stack.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img src="assets/stats-light.svg" width="100%" alt="15+ years building enterprise systems. 280+ GitHub stars across open-source projects. A 34-chapter agent framework course. 90+ articles on architecture and AI agents.">
 </picture>
+
+## How I work
+
+- **Keyless by default.** Managed and workload identity instead of API keys and connection strings, so there are no secrets to leak or rotate.
+- **Zero trust.** Every call is authenticated and authorized, including the internal ones. The user's identity is carried through to agents and tools, access is least-privilege, and tenant data is isolated.
+- **Observable from day one.** Traces, structured logs, and per-request token and cost tracking ship with the first deployment.
+- **Governed AI.** Retrieval evaluation, grounding checks, content safety guardrails, and human approval on actions that matter.
+- **Portable by design.** I build on open standards (OIDC, OpenTelemetry, MCP, A2A), so the same design moves across clouds and model providers.
+- **AI-assisted, human-reviewed.** I use Claude Code and GitHub Copilot to move faster. Architectural decisions and production code still go through human review.
 
 ## Selected work
 
@@ -35,19 +44,11 @@ The chat renders agent results as cards, tables, and charts instead of raw text.
 
 Longer write-ups of each project are at [nitinksingh.com/projects](https://nitinksingh.com/projects/).
 
-## How I work
-
-- **Keyless by default.** Managed Identity and Workload Identity Federation instead of API keys and connection strings. Service-to-service auth carries no stored credential, and pipelines hold no secrets to leak or rotate.
-- **Zero trust.** Every call is authenticated and authorized, including the ones between internal services. User identity is carried through to agents and tools with on-behalf-of flows, access is least-privilege RBAC, traffic stays on private endpoints, and tenant data is isolated.
-- **Observable from day one.** OpenTelemetry traces, structured logs, and per-request token and cost tracking are part of the first deployment, not a later phase.
-- **Governed AI.** Retrieval evaluation, grounding checks, content safety guardrails, and human approval on actions that matter.
-- **AI-assisted, human-reviewed.** I use Claude Code and GitHub Copilot to move faster. Architectural decisions and production code still go through human review.
-
 ## Stack
 
 | Area | Tools |
 |---|---|
-| AI&nbsp;and&nbsp;agents | Microsoft Agent Framework, LangGraph, Azure OpenAI, Microsoft Foundry, Azure AI Search, MCP, A2A, AG-UI, CopilotKit |
+| AI&nbsp;and&nbsp;agents | Microsoft Agent Framework, LangGraph, MCP, A2A, AG-UI, CopilotKit, Azure OpenAI, Microsoft Foundry, Azure AI Search, OpenAI, Anthropic Claude, local models with Ollama |
 | Identity&nbsp;and&nbsp;security | Entra ID, Managed Identity, Workload Identity Federation, OBO, Key Vault, Private Endpoints, Azure Policy, Defender for Cloud |
 | Cloud&nbsp;and&nbsp;delivery | Azure (AKS, Service Bus, Functions, API Management), Docker, Kubernetes, Helm, GitHub Actions, Azure DevOps |
 | Backend&nbsp;and&nbsp;frontend | C# / .NET, .NET Aspire, Python, TypeScript, Angular, Next.js |
@@ -67,6 +68,6 @@ I write about architecture, identity, and running AI agents in production at [ni
 
 ## Work with me
 
-Most of what's here started as a problem I hit on a real project and then rebuilt in the open. If you're working on something similar, such as agent orchestration, keyless Azure, or an architecture worth thinking through, [I'm glad to talk](https://nitinksingh.com/work/).
+Most of what's here started as a problem I hit on a real project and then rebuilt in the open. If you're working on something similar, such as agent orchestration, keyless identity on any cloud, or an architecture worth thinking through, [I'm glad to talk](https://nitinksingh.com/work/).
 
 <a href="https://nitinksingh.com"><img src="assets/website.svg" width="16" height="16" alt="Website"></a> <a href="https://nitinksingh.com">nitinksingh.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nitin27may"><img src="assets/linkedin.svg" width="16" height="16" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/nitin27may">nitin27may</a> &nbsp;·&nbsp; <a href="https://x.com/nitin27may"><img src="assets/x.svg" width="16" height="16" alt="X"></a> <a href="https://x.com/nitin27may">@nitin27may</a> &nbsp;·&nbsp; <a href="mailto:nitin.singh21@hotmail.com"><img src="assets/email.svg" width="16" height="16" alt="Email"></a> <a href="mailto:nitin.singh21@hotmail.com">nitin.singh21@hotmail.com</a>

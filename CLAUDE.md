@@ -29,13 +29,14 @@ Sections, in this order:
 
 1. Banner image (`assets/banner.svg`), then one positioning paragraph, then the
    stats strip
-2. `## Selected work`: `e-commerce-agents` featured first as an `###` heading
+2. `## How I work`: principles, with keyless and zero trust first. It sits above
+   the projects because it is the differentiator; the projects are the proof
+3. `## Selected work`: `e-commerce-agents` featured first as an `###` heading
    with a description, stack tags, the product screenshot, and the architecture
    graphic; then `### More projects` as a bullet list, each with a bold linked
    repo name, a docs link where a site exists, one or two sentences, and stack
    tags on a second line. Stack tags are inline code. Do not use a three-column
    table here: repo names wrap badly at profile width
-3. `## How I work`: principles, with keyless and zero trust first
 4. `## Stack`: one table, five rows
 5. `## Writing`: named blog posts with links
 6. `## Work with me`: one paragraph linking to `nitinksingh.com/work/`, then the
@@ -89,6 +90,10 @@ link for this reason.
 ## Editing guidelines
 
 - Proof over claims: every capability mentioned should link to a repo or a post
+- Positioning is cloud-neutral: Nitin's production work is mostly on Azure, but he
+  is open to any cloud and any AI stack. Keep "Azure" out of the banner headline,
+  keep the sentence saying so in the opening paragraph, and do not claim AWS or
+  GCP project experience that the repos do not show
 - Keyless architecture and zero trust are the lead themes; keep them in the
   opener, in "How I work", and in the featured posts
 - No third-party widgets: no stats cards, view counters, typing animations,

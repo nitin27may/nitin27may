@@ -25,11 +25,11 @@ def banner():
 <g clip-path="url(#r)"><rect width="1200" height="300" fill="url(#bg)"/>{grid}<rect x="0" y="0" width="8" height="300" fill="{TEAL}"/></g>
 <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#334155"/>
 <text x="64" y="84" font-size="17" font-weight="700" fill="#5eead4" letter-spacing="3">NITIN SINGH  ·  SOLUTIONS ARCHITECT</text>
-<text x="64" y="144" font-size="45" font-weight="800" fill="#f8fafc">Enterprise AI agents on Azure,</text>
+<text x="64" y="144" font-size="45" font-weight="800" fill="#f8fafc">Enterprise AI agent systems,</text>
 <text x="64" y="198" font-size="45" font-weight="800" fill="#f8fafc">designed <tspan fill="{GOLD}">and shipped.</tspan></text>
 <text x="64" y="246" font-size="21" fill="#cbd5e1">Keyless  ·  Zero trust  ·  Observable from the first commit</text>
 {g}'''
-    return svg(1200, 300, body, "Nitin Singh, Solutions Architect. Enterprise AI agents on Azure, designed and shipped. Keyless, zero trust, observable from the first commit.")
+    return svg(1200, 300, body, "Nitin Singh, Solutions Architect. Enterprise AI agent systems, designed and shipped. Keyless, zero trust, observable from the first commit.")
 
 # ---------- theme palettes for transparent graphics ----------
 P = {
