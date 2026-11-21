@@ -1,8 +1,11 @@
-# Nitin Singh
+<img src="assets/banner.svg" width="100%" alt="Nitin Singh, Solutions Architect. Enterprise AI agents on Azure, designed and shipped. Keyless, zero trust, observable from the first commit.">
 
-**Architect by title, builder by choice.** Solutions Architect with 15+ years delivering enterprise systems across insurance, fintech, and SaaS. I design the system and write the code, from API contracts through to deployment on AKS. Current focus: multi-agent and RAG systems on Azure, built keyless and zero trust from the first commit.
+Solutions Architect with 15+ years delivering enterprise systems across insurance, fintech, and SaaS. I design the system and write the code, from API contracts through to deployment on AKS. Current focus: multi-agent and RAG systems on Azure, built keyless and zero trust from the first commit.
 
-Toronto, Canada &nbsp;·&nbsp; <a href="https://nitinksingh.com"><img src="assets/website.svg" width="16" height="16" alt="Website"> nitinksingh.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nitin27may"><img src="assets/linkedin.svg" width="16" height="16" alt="LinkedIn"> nitin27may</a> &nbsp;·&nbsp; <a href="https://x.com/nitin27may"><img src="assets/x.svg" width="16" height="16" alt="X"> @nitin27may</a> &nbsp;·&nbsp; <a href="mailto:nitin.singh21@hotmail.com"><img src="assets/email.svg" width="16" height="16" alt="Email"> nitin.singh21@hotmail.com</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="15+ years building enterprise systems. 280+ GitHub stars across open-source projects. A 34-chapter agent framework course. 90+ articles on architecture and AI agents.">
+</picture>
 
 ## Selected work
 
@@ -12,38 +15,14 @@ A complete multi-agent application, not a sample that stops at "the agent replie
 
 `Microsoft Agent Framework` `Python` `.NET 10` `Next.js` `PostgreSQL + pgvector` `OpenTelemetry`
 
-The signed-in user's identity travels with every hop, and actions that move money wait for a human.
+<a href="https://nitinksingh.com/e-commerce-agents/getting-started/demo-guide.html"><img src="assets/e-commerce-agents.png" width="100%" alt="The e-commerce-agents chat interface answering a request for wireless headphones with a side-by-side product comparison rendered as cards."></a>
 
-```mermaid
-flowchart LR
-    classDef core fill:#1d4ed8,stroke:#93c5fd,color:#fff
-    classDef gw fill:#0d9488,stroke:#5eead4,color:#fff
-    classDef infra fill:#475569,stroke:#94a3b8,color:#fff
-    classDef ok fill:#15803d,stroke:#4ade80,color:#fff
+The chat renders agent results as cards, tables, and charts instead of raw text. Underneath, the signed-in user's identity travels with every hop, and actions that move money wait for a human.
 
-    User(["User"]) --> Web["Next.js storefront<br/>and streaming chat"]:::core
-    Web -->|JWT, role| Orch["Orchestrator<br/>5 orchestration modes"]:::gw
-
-    subgraph Agents["Specialist agents"]
-        Search["Product search"]:::core
-        Orders["Orders"]:::core
-        Pricing["Pricing"]:::core
-        Reviews["Reviews"]:::core
-        Inventory["Inventory"]:::core
-    end
-
-    Orch -->|A2A, user identity| Search
-    Orch --> Orders
-    Orch --> Pricing
-    Orch --> Reviews
-    Orch --> Inventory
-
-    Orch -->|policy-routed| Approval["Human approval"]:::ok
-    Search --> DB[("PostgreSQL<br/>pgvector")]:::infra
-    Orders --> DB
-    Inventory --> DB
-    Orch -.->|traces, tokens, cost| OTel["OpenTelemetry"]:::infra
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.svg">
+  <img src="assets/architecture-light.svg" width="100%" alt="Architecture of e-commerce-agents: a user reaches a Next.js storefront, which calls an orchestrator with a JWT. The orchestrator calls five specialist agents over A2A, backed by PostgreSQL with pgvector. Risky actions route to human approval, and traces and cost go to OpenTelemetry. The signed-in user's identity is carried on every hop.">
+</picture>
 
 ### More projects
 
@@ -89,3 +68,5 @@ I write about architecture, identity, and running AI agents in production at [ni
 ## Work with me
 
 Most of what's here started as a problem I hit on a real project and then rebuilt in the open. If you're working on something similar, such as agent orchestration, keyless Azure, or an architecture worth thinking through, [I'm glad to talk](https://nitinksingh.com/work/).
+
+<a href="https://nitinksingh.com"><img src="assets/website.svg" width="16" height="16" alt="Website"></a> <a href="https://nitinksingh.com">nitinksingh.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nitin27may"><img src="assets/linkedin.svg" width="16" height="16" alt="LinkedIn"></a> <a href="https://www.linkedin.com/in/nitin27may">nitin27may</a> &nbsp;·&nbsp; <a href="https://x.com/nitin27may"><img src="assets/x.svg" width="16" height="16" alt="X"></a> <a href="https://x.com/nitin27may">@nitin27may</a> &nbsp;·&nbsp; <a href="mailto:nitin.singh21@hotmail.com"><img src="assets/email.svg" width="16" height="16" alt="Email"></a> <a href="mailto:nitin.singh21@hotmail.com">nitin.singh21@hotmail.com</a>
